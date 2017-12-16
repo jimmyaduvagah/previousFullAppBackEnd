@@ -1,0 +1,58 @@
+[
+  {
+    "model": "courses.coursesectiontype",
+    "pk": "71f280a7-1b2c-4c8a-91b3-3b0f10b5c296",
+    "fields": {
+      "created_on": "2015-11-21T01:16:44.745Z",
+      "created_by": null,
+      "modified_on": "2015-11-21T01:16:44.745Z",
+      "modified_by": null,
+      "order": 2,
+      "title": "Project",
+      "is_active": true,
+      "deleted": false
+    }
+  },
+  {
+    "model": "courses.coursesectiontype",
+    "pk": "dc3e3780-29c3-473d-a1ec-4d8ac79db60a",
+    "fields": {
+      "created_on": "2015-11-21T01:16:03.734Z",
+      "created_by": null,
+      "modified_on": "2015-11-21T01:16:03.734Z",
+      "modified_by": null,
+      "order": 0,
+      "title": "Video",
+      "is_active": true,
+      "deleted": false
+    }
+  },
+  {
+    "model": "courses.coursesectiontype",
+    "pk": "e6e295ff-13e6-4f37-b9df-d9aa92646593",
+    "fields": {
+      "created_on": "2015-11-21T01:16:08.533Z",
+      "created_by": null,
+      "modified_on": "2015-11-21T01:16:08.533Z",
+      "modified_by": null,
+      "order": 1,
+      "title": "Quiz",
+      "is_active": true,
+      "deleted": false
+    }
+  },
+  {
+    "model": "courses.coursesectiontype",
+    "pk": "84619985-e590-4b3c-a9aa-c77634db0ae9",
+    "fields": {
+      "created_on": "2015-11-21T01:16:08.533Z",
+      "created_by": null,
+      "modified_on": "2015-11-21T01:16:08.533Z",
+      "modified_by": null,
+      "order": 1,
+      "title": "SQL Interface",
+      "is_active": true,
+      "deleted": false
+    }
+  }
+]

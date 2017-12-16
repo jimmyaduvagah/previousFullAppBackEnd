@@ -1,0 +1,50 @@
+[
+   {
+      "model":"cms_locations.country",
+      "pk":"2817e5ca-57fd-490e-b67b-f24d6c4554f2",
+      "fields":{
+         "created_on":"2015-09-02T20:23:04.856Z",
+         "created_by":null,
+         "modified_on":"2015-09-02T20:23:04.856Z",
+         "modified_by":null,
+         "name":"Singapore",
+         "abbreviation":"SG"
+      }
+   },
+   {
+      "model":"cms_locations.country",
+      "pk":"4257f894-2ba6-4647-82e6-f8a81ac78101",
+      "fields":{
+         "created_on":"2015-09-02T20:23:04.856Z",
+         "created_by":null,
+         "modified_on":"2015-09-02T20:23:04.856Z",
+         "modified_by":null,
+         "name":"Canada",
+         "abbreviation":"CA"
+      }
+   },
+   {
+      "model":"cms_locations.country",
+      "pk":"6c9bc35f-5179-4167-9fa5-93fb370d1888",
+      "fields":{
+         "created_on":"2015-09-02T20:23:04.856Z",
+         "created_by":null,
+         "modified_on":"2015-09-02T20:23:04.856Z",
+         "modified_by":null,
+         "name":"United States",
+         "abbreviation":"US"
+      }
+   },
+   {
+      "model":"cms_locations.country",
+      "pk":"993c4fe1-b925-43fd-afcd-e5d1cdcd7352",
+      "fields":{
+         "created_on":"2015-09-02T20:23:04.856Z",
+         "created_by":null,
+         "modified_on":"2015-09-02T20:23:04.856Z",
+         "modified_by":null,
+         "name":"United Kingdom",
+         "abbreviation":"GB"
+      }
+   }
+]

@@ -1,0 +1,12 @@
+.idea
+app/.idea
+server/.idea
+app/bower_components
+twz_server_django/settings_private.py
+venv
+static
+*.pyc
+app_bootstrap
+npm-debug.log
+config.codekit
+code-exe/vendor

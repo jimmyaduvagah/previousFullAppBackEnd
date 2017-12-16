@@ -1,0 +1,33 @@
+Surveys have a title and the survey object.
+
+The survey object is a JSON object with the groups and questions in it.
+
+The survey group contains the questions and can be referenced individually from the entire survey based on its UUID.
+
+Question has a title, type, answers, and any supporting type fields.
+
+Question types are:
+ - radio
+ - radio-with-other
+ - longtext
+ - shorttext
+ - checkbox
+ - checkbox-with-other
+ - scale
+
+Question Type structures:
+
+radio - A list of single-selectable radio options.
+
+radio-with-other - A list of single selectable radio options with a short text input at the end.
+
+longtext - A free-form long text input area. The answers property is null because it is a text input.
+
+shorttext - A free-form short text input area. The answers property is null because it is a text input.
+
+checkbox - A list of multi-selectable checkbox options.
+
+checkbox-with-other - A list of multi-selectable checkbox options with a short text input at the end.
+
+scale - A radio select of a rating based on a given scale, the scale is specified at the question level as an array with the field "scale": [0, 5]. The answers property is null because they are auto generated.
+
