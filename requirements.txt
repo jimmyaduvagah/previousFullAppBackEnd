@@ -43,7 +43,7 @@ python-gitlab==0.21.2
 pytz==2017.2
 PyVimeo==0.3.10
 requests==2.18.1
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.10
 simplejson==3.11.1
 six==1.10.0
