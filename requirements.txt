@@ -33,7 +33,7 @@ olefile==0.44
 packaging==16.8
 parse==1.8.2
 pathlib==1.0.1
-Pillow==4.2.0
+Pillow==9.0.1
 psycopg2==2.7.1
 pyapi-gitlab==7.8.5
 pyasn1==0.2.3
